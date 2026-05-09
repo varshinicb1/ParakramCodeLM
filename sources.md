@@ -1,6 +1,3 @@
-Good — I now have confirmed current release info for all major sources. Here's the complete, verified download list.
-
----
 
 ## Everything to download into the CodeLM workspace
 
